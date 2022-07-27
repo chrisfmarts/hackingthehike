@@ -3,7 +3,6 @@ author = "Chris Marts"
 categories = ["Open Source", "Linux"]
 date = ""
 description = ""
-draft = true
 image = ""
 title = "Fedora 36 Guide"
 type = "post"
