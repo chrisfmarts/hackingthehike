@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: https://github.com/chrisfmarts/hackingthehike/blob/master/config.toml
+  label: Config
+  match: "**/*"
+- type: heading
+  label: Heading
 - type: directory
   path: content
   label: Post
